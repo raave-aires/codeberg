@@ -165,13 +165,11 @@ Desde que respeite as condições:
 - Compartilha Igual — se você remixar, transformar ou criar a partir do material, deverá distribuir suas contribuições sob a mesma licença.
 
 ### Como atribuir?
-Use um destes modelos para fazer atribuição de autoria a mim:
-
-Se você estiver apenas distribuindo sem modificar:
+Se você estiver apenas distribuindo este material sem modificá-lo, use:
 ```
-Este material foi criado por Raavë Aires e está disponível em <> e licenciado pela CC BY-NC-SA 4.0.
+Este material foi criado por Raavë Aires e está disponível em <https://github.com/raave-aires/codeberg/>. Licenciado pela CC BY-NC-SA 4.0.
 ```
-
+Se você estiver criando um novo material a partir deste trabalho, ou distribuindo ele modificado, use:
 ```
-Baseado no trabalho de Raavë Aires, disponível em <>. Licenciado pela CC BY-NC-SA 4.0.
+Baseado no trabalho de Raavë Aires, disponível em <https://github.com/raave-aires/codeberg/>. Licenciado pela CC BY-NC-SA 4.0.
 ```
