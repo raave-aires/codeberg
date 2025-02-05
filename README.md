@@ -42,13 +42,14 @@ Agora que o repositório foi migrado, você pode cloná-lo para sua máquina loc
 Existem duas formas principais de configurar o espelhamento entre GitHub e Codeberg. 
 ### Opção 1: Usando a linha de comando do Git
 #### Passo 1: Configurar remotos separados para GitHub e Codeberg
-Adicionar o repositório remoto do GitHub. Normalmente este passo já está configurado automaticamente.
+Adicione o repositório remoto do GitHub. Normalmente este passo já está configurado automaticamente.
 
 Substitua user pelo seu nome de usuário e repo pelo nome do repositório:
 ```
 git remote add github https://github.com/user/repo.git
 ```
 Adicionar o repositório remoto do Codeberg
+
 Substitua user pelo seu nome de usuário e repo pelo nome do repositório:
 ```
 git remote add codeberg https://codeberg.org/user/repo.git
